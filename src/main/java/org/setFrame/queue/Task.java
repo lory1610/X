@@ -1,4 +1,4 @@
-package org.example.queue;
+package org.setFrame.queue;
 
 public class Task implements Comparable<Task> {
     int priority;

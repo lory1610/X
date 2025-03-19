@@ -1,4 +1,4 @@
-package org.example.list.linkedlist;
+package org.setFrame.list.linkedlist;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -31,8 +31,8 @@ public class LinkedListMain {
         System.out.println("ArrayList after removing: " + linkedList);
 
         // 清空 O(n)
-        linkedList.clear();
-        System.out.println("ArrayList after clearing: " + linkedList);
+//        linkedList.clear();
+        System.out.println("ArrayList after clearing: " + linkedList.get(1));
 
     }
 }

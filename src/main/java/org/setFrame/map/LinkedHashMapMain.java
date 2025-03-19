@@ -1,4 +1,4 @@
-package org.example.map;
+package org.setFrame.map;
 
 import java.util.LinkedHashMap;
 

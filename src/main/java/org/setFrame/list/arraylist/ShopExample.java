@@ -1,4 +1,4 @@
-package org.example.list.arraylist;
+package org.setFrame.list.arraylist;
 
 import java.util.ArrayList;
 

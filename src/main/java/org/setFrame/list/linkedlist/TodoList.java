@@ -1,4 +1,4 @@
-package org.example.list.linkedlist;
+package org.setFrame.list.linkedlist;
 
 import java.util.LinkedList;
 

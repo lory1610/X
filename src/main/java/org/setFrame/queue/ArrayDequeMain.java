@@ -1,4 +1,4 @@
-package org.example.queue;
+package org.setFrame.queue;
 
 import java.util.ArrayDeque;
 
